@@ -1,0 +1,6 @@
+C:\Users\pro-7\source\repos\Задание 7\задание 12\bin\Debug\задание 12.exe.config
+C:\Users\pro-7\source\repos\Задание 7\задание 12\bin\Debug\задание 12.exe
+C:\Users\pro-7\source\repos\Задание 7\задание 12\bin\Debug\задание 12.pdb
+C:\Users\pro-7\source\repos\Задание 7\задание 12\obj\Debug\задание 12.csproj.CoreCompileInputs.cache
+C:\Users\pro-7\source\repos\Задание 7\задание 12\obj\Debug\задание 12.exe
+C:\Users\pro-7\source\repos\Задание 7\задание 12\obj\Debug\задание 12.pdb

@@ -1,0 +1,6 @@
+C:\Users\pro-7\source\repos\Задание 7\Задача 10\bin\Debug\Задача 10.exe.config
+C:\Users\pro-7\source\repos\Задание 7\Задача 10\bin\Debug\Задача 10.exe
+C:\Users\pro-7\source\repos\Задание 7\Задача 10\bin\Debug\Задача 10.pdb
+C:\Users\pro-7\source\repos\Задание 7\Задача 10\obj\Debug\Задача 10.csproj.CoreCompileInputs.cache
+C:\Users\pro-7\source\repos\Задание 7\Задача 10\obj\Debug\Задача 10.exe
+C:\Users\pro-7\source\repos\Задание 7\Задача 10\obj\Debug\Задача 10.pdb
