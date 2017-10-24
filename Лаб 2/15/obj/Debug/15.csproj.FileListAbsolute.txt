@@ -1,0 +1,6 @@
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\15\bin\Debug\15.exe.config
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\15\bin\Debug\15.exe
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\15\bin\Debug\15.pdb
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\15\obj\Debug\15.exe
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\15\obj\Debug\15.pdb

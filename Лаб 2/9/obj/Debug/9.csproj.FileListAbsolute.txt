@@ -1,0 +1,6 @@
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\9\bin\Debug\9.exe.config
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\9\bin\Debug\9.exe
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\9\bin\Debug\9.pdb
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\9\obj\Debug\9.exe
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\9\obj\Debug\9.pdb
