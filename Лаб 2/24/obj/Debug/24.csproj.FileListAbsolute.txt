@@ -1,0 +1,7 @@
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\bin\Debug\24.exe.config
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\bin\Debug\24.exe
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\bin\Debug\24.pdb
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\obj\Debug\24.csprojResolveAssemblyReference.cache
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\obj\Debug\24.csproj.CoreCompileInputs.cache
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\obj\Debug\24.exe
+C:\Users\pro-7\Desktop\gurtovaya\Лаб 2\24\obj\Debug\24.pdb

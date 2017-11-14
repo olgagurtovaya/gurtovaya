@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Лаб 2\20\bin\Debug\20.exe.config
+C:\Users\User\Source\Repos\Лаб 2\20\bin\Debug\20.exe
+C:\Users\User\Source\Repos\Лаб 2\20\bin\Debug\20.pdb
+C:\Users\User\Source\Repos\Лаб 2\20\obj\Debug\20.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Лаб 2\20\obj\Debug\20.exe
+C:\Users\User\Source\Repos\Лаб 2\20\obj\Debug\20.pdb
